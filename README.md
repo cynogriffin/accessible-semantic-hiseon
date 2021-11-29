@@ -2,7 +2,9 @@
 
 ## Description
 
-In this project, I was given working code for a company website that was not compliant with best practices in terms of HTML semantics and accessibility. Changes were needed in order to align the code with current best practices and improve the accessibility of the code. I was able to use the documentation on HTML5 semantics and accessibilty standards to make the appropriate changes to the HTML code to make it compliant, as well as adjusting the CSS so that the styling of the website was still up to company standards, matching the given mockup. 
+In this project, I was given working code for a company website that was not compliant with best practices in terms of HTML semantics and accessibility. Changes were needed in order to align the code with current best practices and improve the accessibility of the code. I was able to use the documentation on HTML5 semantics and accessibilty standards to make the appropriate changes to the HTML code to make it compliant, as well as adjusting the CSS so that the styling of the website was still up to company standards, matching the given mockup as seen below:
+
+![mockup image](assets/images/mockup.png)
 
 From this project, I learned the importance of semantic HTML in making the code readable and usable for future users. I also learned the importance of accessibily in making sure all users have a good and complete experience of the content as well as making sure that any content not displaying due to complatability issues can still be understood. Another thing I learned is the importance of good documentation and the ability to reference said documentation to ensure my code is up to par with industry standards. Lastly, I learned the importance of making sure all the code across languages lines up and corresponds in order to prevent bugs or errors from surfacing during deployment. 
 
